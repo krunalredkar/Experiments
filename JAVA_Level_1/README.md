@@ -13,9 +13,13 @@ recursive version.
 solution.
 10. Print following structure in Java.
     `*`
+    
     `***`
+    
     `*****`
+    
     `***`
+    
     `*`
 11. Write a Java Program to Calculate average using Array.
 12. Write a Java Program to Reverse a String using Recursion.
